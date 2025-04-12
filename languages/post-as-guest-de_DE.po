@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post-As-Guest\n"
+"POT-Creation-Date: 2016-11-12 15:06+0100\n"
+"PO-Revision-Date: 2016-11-12 15:08+0100\n"
+"Last-Translator: Powie <te@powie.de>\n"
+"Language-Team: powie.de <te@powie.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../pag_review.php:11
+msgid "Post as guest -  Waiting queue"
+msgstr "Post-As-Guest - Wartend"
+
+#: ../pag_review.php:16
+msgid "Id"
+msgstr "Id"
+
+#: ../pag_review.php:17
+msgid "Post title"
+msgstr "Beitrag Titel"
+
+#: ../pag_review.php:18
+msgid "Posted on"
+msgstr "geschrieben am"
+
+#: ../pag_review.php:19
+msgid "Actions"
+msgstr "Aktionen"
+
+#: ../pag_review.php:27
+msgid "Posts currently waiting for approval: "
+msgstr "Beiträge die auf Überprüfung warten:"
+
+#: ../pag_review.php:29
+msgid "You currently have no post for approval."
+msgstr "Aktuell warten keine Beiträge auf Überprüfung."
+
+#: ../pag_review.php:40
+msgid "Preview"
+msgstr "Vorschau"
+
+#: ../pag_review.php:41
+msgid "Edit"
+msgstr "Ändern"
+
+#: ../pag_review.php:42
+msgid "Approve"
+msgstr "Genehmigen"
+
+#: ../pag_review.php:43
+msgid "Remove"
+msgstr "Entfernen"
+
+#: ../pag_settings.php:3
+msgid "Post as guest Settings"
+msgstr "Post As Guest Einstellungen"
+
+#: ../pag_settings.php:8
+msgid "Post Content"
+msgstr "Beitrag"
+
+#: ../pag_settings.php:13
+msgid "Form Settings"
+msgstr "Formular Einstellungen"
+
+#: ../pag_settings.php:17
+msgid "Post Field Rows"
+msgstr "Beitrags Feld Zeilen"
+
+#: ../pag_settings.php:21
+msgid "Post Field Legend"
+msgstr "Beitrag Feld Legende"
+
+#: ../pag_settings.php:26
+msgid "User can select Category"
+msgstr "Benutzer kann die Kategorie wählen"
+
+#: ../pag_settings.php:31
+msgid "Default Category"
+msgstr "Standard Kategorie"
+
+#: ../pag_settings.php:34 ../post-as-guest.php:101
+msgid "-- Please Select Category"
+msgstr "-- Kategorie auswählen"
+
+#: ../pag_settings.php:51
+msgid "Guest post settings"
+msgstr "Gäste Beitrag Einstellungen"
+
+#: ../pag_settings.php:55
+msgid "Add before post"
+msgstr "Beitrag beginnen mit"
+
+#: ../pag_settings.php:59
+msgid "Add after post"
+msgstr "Beitrag beenden mit"
+
+#: ../pag_settings.php:63
+msgid "Message after post"
+msgstr "Benachrichtigung nach dem Absenden"
+
+#: ../pag_settings.php:72
+msgid "Notification settings"
+msgstr "Benachrichtigungs Einstellungen"
+
+#: ../pag_settings.php:76
+msgid "Send notifications"
+msgstr "Benachrichtigungen senden"
+
+#: ../pag_settings.php:80
+msgid "Notifications eMail"
+msgstr "Benachrichtigung e-Mail"
+
+#: ../pag_settings.php:83
+msgid "Seperate multiple eMail adresses with a comma"
+msgstr ""
+"Mehrere eMail Adressen durch ein Komma von einander trennen <code>,</code>"
+
+#: ../pag_settings.php:91
+msgid "reCaptcha Support"
+msgstr "reCaptcha Unterstützung"
+
+#: ../pag_settings.php:96
+msgid "If you like to use Recaptch add your keys here"
+msgstr "Wenn du reCaptcha benutzen möchtest gib deine Keys hier ein"
+
+#: ../pag_settings.php:101
+msgid "reCaptcha Site Key"
+msgstr ""
+
+#: ../pag_settings.php:107
+msgid "reCaptcha Secret Key"
+msgstr ""
+
+#: ../pag_settings.php:117
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: ../pag_settings.php:123
+msgid "Post as guest Usage"
+msgstr "Post-As-Guest Benutzung"
+
+#: ../pag_settings.php:125
+msgid ""
+"Simple use a shortcode on a page of your choice or create a new page and "
+"insert the following shortcode: <code>[post-as-guest]</code> to show the "
+"guest form."
+msgstr ""
+"Benutze den Shortcode: <code>[post-as-guest]</code> auf einer Seite um das "
+"Formular anzeigen zu lassen mit dem Gäste Beiträge einsenden können."
+
+#: ../pag_settings.php:130
+msgid "About"
+msgstr "Über"
+
+#: ../post-as-guest.php:49
+msgid "Please enter title"
+msgstr "Bitte gib einen Titel ein"
+
+#: ../post-as-guest.php:50
+msgid "Please enter content"
+msgstr "Bitte gib einen Beitrags Text ein"
+
+#: ../post-as-guest.php:62
+msgid "Post as Guest"
+msgstr "Post As Guest"
+
+#: ../post-as-guest.php:63
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ../post-as-guest.php:94 ../post-as-guest.php:241
+msgid "Title"
+msgstr "Titel"
+
+#: ../post-as-guest.php:99
+msgid "Category"
+msgstr "Kategorie"
+
+#: ../post-as-guest.php:113
+msgid "Send In"
+msgstr "Einsenden"
+
+#: ../post-as-guest.php:123
+msgid "Thanks for your post. We will review your post befor publication."
+msgstr ""
+"Danke für den Beitrag. Ein Admin wird diesen vor Veröffentlichung überprüfen"
+
+#: ../post-as-guest.php:228
+msgid "Spam Check Error"
+msgstr "Fehler bei Anti-Spam Kotrolle"
+
+#: ../post-as-guest.php:240
+msgid "A new guest post is added at "
+msgstr "Ein neuer Gäste Beitrag wurde hinzugefügt bei"
+
+#: ../post-as-guest.php:243
+msgid "New Guest Post"
+msgstr "Neuer Gäste Beitrag"
+
+#~ msgid "Post as guest Review"
+#~ msgstr "Post As Guest Vorschau"

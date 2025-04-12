@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post-As-Guest\n"
+"POT-Creation-Date: 2013-08-28 10:05+0100\n"
+"PO-Revision-Date: 2014-10-22 09:52+0100\n"
+"Last-Translator: jelena kovacevic <jecajeca260@gmail.com>\n"
+"Language-Team: powie.de <te@powie.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../pag_review.php:11
+msgid "Post as guest -  Waiting queue"
+msgstr "Postear como invitado - Cola de espera"
+
+#: ../pag_review.php:16
+msgid "Id"
+msgstr "Id"
+
+#: ../pag_review.php:17
+msgid "Post title"
+msgstr "Título del post"
+
+#: ../pag_review.php:18
+msgid "Posted on"
+msgstr "Posteado el "
+
+#: ../pag_review.php:19
+msgid "Actions"
+msgstr "Acciones"
+
+#: ../pag_review.php:27
+msgid "Posts currently waiting for approval: "
+msgstr "Post que actualmente están esperando por aprobación:"
+
+#: ../pag_review.php:29
+msgid "You currently have no post for approval."
+msgstr "Usted no tiene actualmente post a aprobar."
+
+#: ../pag_review.php:40
+msgid "Preview"
+msgstr "Vista previa"
+
+#: ../pag_review.php:41
+msgid "Edit"
+msgstr "Editar"
+
+#: ../pag_review.php:42
+msgid "Approve"
+msgstr "Aprobar"
+
+#: ../pag_review.php:43
+msgid "Remove"
+msgstr "Remover"
+
+#: ../pag_settings.php:3
+msgid "Post as guest Settings"
+msgstr "Ajustes de Postear como invitado"
+
+#: ../pag_settings.php:8
+msgid "Post Content"
+msgstr "Contenido del Post"
+
+#: ../pag_settings.php:13
+msgid "Form Settings"
+msgstr "Ajustes de la Forma"
+
+#: ../pag_settings.php:17
+msgid "Post Field Rows"
+msgstr "Filas del Campo del Post"
+
+#: ../pag_settings.php:21
+msgid "Post Field Legend"
+msgstr "Legenda del Campo del Post"
+
+#: ../pag_settings.php:26
+msgid "User can select Category"
+msgstr "Usuario puede seleccionar Categoría"
+
+#: ../pag_settings.php:31
+msgid "Default Category"
+msgstr "Categoría por Defecto"
+
+#: ../pag_settings.php:34 ../post-as-guest.php:93
+msgid "-- Please Select Category"
+msgstr "-- Por favor Seleccione la Categoría"
+
+#: ../pag_settings.php:51
+msgid "Guest post settings"
+msgstr "Ajustes del post de Invitado"
+
+#: ../pag_settings.php:55
+msgid "Add before post"
+msgstr "Adicionar antes del post"
+
+#: ../pag_settings.php:59
+msgid "Add after post"
+msgstr "Adicionar después del post"
+
+#: ../pag_settings.php:63
+msgid "Message after post"
+msgstr "Mensaje después del post"
+
+#: ../pag_settings.php:72
+msgid "Notification settings"
+msgstr "Ajustes de notificación"
+
+#: ../pag_settings.php:76
+msgid "Send notifications"
+msgstr "Enviar notificaciones"
+
+#: ../pag_settings.php:80
+msgid "Notifications eMail"
+msgstr "eMail de notificaciones"
+
+#: ../pag_settings.php:83
+msgid "Seperate multiple eMail adresses with a comma"
+msgstr "Separar múltiples direcciones de eMails con coma"
+
+#: ../pag_settings.php:91
+msgid "Save Changes"
+msgstr "Salvar Cambios"
+
+#: ../pag_settings.php:97
+msgid "Post as guest Usage"
+msgstr "Uso de Postear como invitado"
+
+#: ../pag_settings.php:99
+msgid ""
+"Simple use a shortcode on a page of your choice or create a new page and "
+"insert the following shortcode: <code>[post-as-guest]</code> to show the "
+"guest form."
+msgstr ""
+"Simplemente use un código corto en una página de su selección o cree una "
+"nueva página e inserte el siguiente código corto:<code>[post-as-guest]</"
+"code> para mostrar la forma del invitado."
+
+#: ../pag_settings.php:104
+msgid "About"
+msgstr "Acerca de"
+
+#: ../post-as-guest.php:48
+msgid "Please enter title"
+msgstr "Por favor entre el título"
+
+#: ../post-as-guest.php:49
+msgid "Please enter content"
+msgstr "Por favor entre el contenido"
+
+#: ../post-as-guest.php:56
+msgid "Post as Guest"
+msgstr "Postear como invitado"
+
+#: ../post-as-guest.php:57
+msgid "Settings"
+msgstr "Ajustes"
+
+#: ../post-as-guest.php:86 ../post-as-guest.php:201
+msgid "Title"
+msgstr "Título"
+
+#: ../post-as-guest.php:91
+msgid "Category"
+msgstr "Categoría"
+
+#: ../post-as-guest.php:102
+msgid "Send In"
+msgstr "Enviar En"
+
+#: ../post-as-guest.php:112
+msgid "Thanks for your post. We will review your post befor publication."
+msgstr "Gracias por su post. Revisaremos su post antes de publicarlo."
+
+#: ../post-as-guest.php:200
+msgid "A new guest post is added at "
+msgstr "Un nuevo post de invitado se añadió a las"
+
+#: ../post-as-guest.php:203
+msgid "New Guest Post"
+msgstr "Nuevo Post de Invitado"
+
+#~ msgid "Post as guest Review"
+#~ msgstr "Post As Guest Vorschau"
